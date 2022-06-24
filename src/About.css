@@ -1,3 +1,22 @@
+.about-container {
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+}
+
 .about-image {
-    width: 50%
+    width: 100%;
+    border-radius: 10%;
+}
+
+.about-card {
+    border: none;
+    background-color: #d4ebff;
+}
+
+.about-h1 {
+    margin-top: 10%;
+}
+
+.about-skills {
+    margin-top: 10%;
 }

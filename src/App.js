@@ -1,7 +1,7 @@
 import "bootswatch/dist/sandstone/bootstrap.min.css";
 import 'bootstrap/dist/css/bootstrap.min.css';
-
-
+import "./App.css";
+import Footer from "./Footer";
 
 
 import { BrowserRouter } from "react-router-dom";
@@ -15,6 +15,7 @@ function App() {
         <NavBar />
         <RouteList />
       </BrowserRouter>
+      <Footer />
     </div>
   );
 };

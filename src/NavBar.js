@@ -1,5 +1,6 @@
 import { Navbar, Collapse, Nav, NavItem, NavLink, NavbarToggler, NavbarBrand } from "reactstrap";
 import { useState } from "react";
+import "./NavBar.css";
 
 function NavBar() {
   const [isOpen, setIsOpen] = useState(false);
@@ -14,7 +15,7 @@ function NavBar() {
 
   return (
     <div>
-      <Navbar color="light" expand="md" light>
+      <Navbar className="navbar-navbar" color="light" expand="md" light>
         <NavbarBrand>Austin's Personal Website</NavbarBrand>
         <NavbarToggler onClick={toggle} />
         <Collapse navbar isOpen={isOpen}>
