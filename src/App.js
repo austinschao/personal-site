@@ -2,6 +2,7 @@ import "bootswatch/dist/sandstone/bootstrap.min.css";
 import 'bootstrap/dist/css/bootstrap.min.css';
 import "./App.css";
 import Footer from "./Footer";
+import { Container } from "reactstrap";
 
 
 import { BrowserRouter } from "react-router-dom";

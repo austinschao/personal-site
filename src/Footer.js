@@ -2,7 +2,7 @@ import { Container, Row, Col, CardFooter, Card } from "reactstrap";
 import "./Footer.css";
 function Footer() {
   return (
-    <Container className="footer-container">
+    <Container className="footer-container" fluid>
       <CardFooter className="footer-card-footer">
         <Row xs="3">
           <Col>

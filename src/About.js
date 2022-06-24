@@ -20,7 +20,7 @@ function About() {
             <div className="about-skills">
               <h2>Skills</h2>
               <h4>JavaScript | Python | React | Node.js | Express | Flask</h4>
-              <h4>SQL | Postgres | GraphQL | HTML | CSS | jQuery</h4>
+              <h4>SQL | Postgres | HTML | CSS | jQuery</h4>
               <h4>Jest | React Testing Library | unittest</h4>
             </div>
           </Col>
