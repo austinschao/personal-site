@@ -21,7 +21,7 @@ function NavBar() {
         <Collapse navbar isOpen={isOpen}>
           <Nav className="ms-auto" navbar>
             <NavItem>
-              <NavLink href="/about">About</NavLink>
+              <NavLink href="/home">Home</NavLink>
             </NavItem>
             <NavItem>
               <NavLink href="/portfolio">Portfolio</NavLink>

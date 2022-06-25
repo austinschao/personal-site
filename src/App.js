@@ -1,12 +1,11 @@
 import "bootswatch/dist/sandstone/bootstrap.min.css";
 import 'bootstrap/dist/css/bootstrap.min.css';
 import "./App.css";
-import Footer from "./Footer";
-import { Container } from "reactstrap";
+import Footer from "./Footer/component";
 
 
 import { BrowserRouter } from "react-router-dom";
-import NavBar from './NavBar';
+import NavBar from './NavBar/NavBar';
 import RouteList from './RouteList';
 
 function App() {

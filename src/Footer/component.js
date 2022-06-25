@@ -1,5 +1,5 @@
-import { Container, Row, Col, CardFooter, Card } from "reactstrap";
-import "./Footer.css";
+import { Container, Row, Col, CardFooter } from "reactstrap";
+import "./styles.css";
 function Footer() {
   return (
     <Container className="footer-container" fluid>

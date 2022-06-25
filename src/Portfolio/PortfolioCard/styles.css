@@ -1,0 +1,13 @@
+.portfolio-card-card {
+    margin-top: 1.5rem;
+    height: 30rem;
+    overflow: auto;
+}
+
+.portfolio-card-button {
+    margin: 0.5rem;
+}
+
+.portfolio-card-img {
+    width: 30rem;
+}

@@ -1,8 +1,8 @@
-import { Card, CardImg, CardBody, CardTitle, Container, Row, Col } from "reactstrap";
-import "./About.css";
+import { Card, CardImg, Container, Row, Col } from "reactstrap";
+import "./styles.css";
 
 
-function About() {
+function Home() {
   return (
     <div>
       <Container fluid="sm" className="about-container">
@@ -30,4 +30,4 @@ function About() {
   );
 }
 
-export default About;
+export default Home;
