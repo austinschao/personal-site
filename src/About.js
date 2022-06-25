@@ -9,7 +9,7 @@ function About() {
         <Row>
           <Col>
             <Card className="about-card">
-              <CardImg className="about-image" src="/pic.jpeg"></CardImg>
+              <CardImg className="about-image" src="/images/pic.jpeg"></CardImg>
             </Card>
           </Col>
           <Col>
