@@ -1,4 +1,4 @@
-import { Navbar, Collapse, Nav, NavItem, NavLink, NavbarToggler, NavbarBrand } from "reactstrap";
+import { Navbar, Collapse, Nav, NavItem, NavLink, NavbarToggler } from "reactstrap";
 import { useState } from "react";
 import "./styles.css";
 
