@@ -48,6 +48,7 @@ function Portfolio() {
                 title={project.title}
                 description={project.description}
                 img={project.img}
+                url={project.url}
               />
             </Col>
           ))}
