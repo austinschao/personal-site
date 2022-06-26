@@ -5,7 +5,7 @@ import Footer from "./Footer/component";
 
 
 import { BrowserRouter } from "react-router-dom";
-import NavBar from './NavBar/NavBar';
+import NavBar from './NavBar/component';
 import RouteList from './RouteList';
 
 function App() {
