@@ -1,4 +1,5 @@
 .resume-card {
     width: 50rem;
     margin: 3rem auto;
+    min-height: 100vh;
 }
